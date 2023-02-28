@@ -1,0 +1,2 @@
+catkin_simple:eigen_catkin:iq_gnc:iq_sim:mav_comm/mav_comm:mav_comm/mav_msgs:mav_comm/mav_planning_msgs:mav_comm/mav_state_machine_msgs:mav_comm/mav_system_msgs:mavros_controllers/controller_msgs:mavros_controllers/geometric_controller:mavros_controllers/mavros_controllers:mavros_controllers/trajectory_publisher:plannar_mover/plannar_mover:pure_pursuit
+-DCATKIN_DEVEL_PREFIX=/home/kaushal/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/kaushal/catkin_ws/install -G Unix Makefiles
